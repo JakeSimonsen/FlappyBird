@@ -31,10 +31,10 @@ FlappyBird/
    ```bash
    javac App.java FlappyBird.java
 
-📦 Dependencies
+## 📦 Dependencies
 No external libraries. This project uses only core Java libraries (javax.swing, java.awt, etc.).
 
-🧠 Features
+## 🧠 Features
 Real-time gameplay loop at 60 FPS
 
 Random pipe generation with consistent gaps
@@ -45,12 +45,12 @@ Game restart after game over
 
 Score tracking and display
 
-📌 Notes
+## 📌 Notes
 The game runs at a fixed window size of 360x640 pixels.
 
 All images are loaded via relative paths using getClass().getResource(...). Ensure image files are in the root of the classpath (i.e., the same directory as the compiled .class files).
 
 Designed for desktop environments with keyboard support.
 
-✍️ Author
+## ✍️ Author
 Your Name – @Jake Simonsen
