@@ -1,10 +1,10 @@
 # Flappy Bird 🎮🐤
 
-This is a simple Flappy Bird clone implemented in Java using Swing. The game features a flying bird that must navigate through randomly placed pipes without colliding. The longer you stay alive, the higher your score!
+This is a Flappy Bird clone implemented in Java using Swing. The game features a flying bird that must navigate through randomly placed pipes without colliding. The longer you stay alive, the higher your score!
 
 ## 📸 Game Preview
 
-> 🚧 You can customize and add screenshots here after running the game!
+> 🚧
 
 ## 📁 Project Structure
 FlappyBird/
