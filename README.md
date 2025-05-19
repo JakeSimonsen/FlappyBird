@@ -53,4 +53,4 @@ All images are loaded via relative paths using getClass().getResource(...). Ensu
 Designed for desktop environments with keyboard support.
 
 ## ✍️ Author
-Your Name – @Jake Simonsen
+Jake Simonsen
