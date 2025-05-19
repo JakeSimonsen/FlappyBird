@@ -6,15 +6,6 @@ This is a Flappy Bird clone implemented in Java using Swing. The game features a
 
 > 🚧
 
-## 📁 Project Structure
-FlappyBird/
-├── App.java # Main class to launch the game
-├── FlappyBird.java # Game logic and rendering
-├── flappybird.png # Bird sprite
-├── flappybirdbg.png # Background image
-├── toppipe.png # Top pipe image
-└── bottompipe.png # Bottom pipe image
-
 ## ▶️ How to Play
 
 - **Press the Spacebar** to make the bird flap upward.
